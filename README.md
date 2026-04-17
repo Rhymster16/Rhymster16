@@ -18,3 +18,10 @@ Python | SQL | Power BI | SEO | Content Writing
 
 ## 📫 Connect with me
 LinkedIn https://www.linkedin.com/in/rishab-verma-977970238/ 
+
+
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+
